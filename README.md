@@ -122,6 +122,8 @@ http://127.0.0.1:5000/
 The main objective of VidSnap AI is to simplify video content creation by transforming text and images into engaging speech-enabled reel-style videos.
 
 ## 👩‍💻 Developer
+Email:-bhagyamehakare@gmail.com
+
 
 Developed using Python and web development technologies.
 
