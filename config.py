@@ -1,0 +1,1 @@
+ELEVENLABS_API_KEY = "Enter_your_api_key"
